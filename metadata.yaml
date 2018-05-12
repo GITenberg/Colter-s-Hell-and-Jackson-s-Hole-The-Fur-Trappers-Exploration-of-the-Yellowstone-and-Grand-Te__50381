@@ -1,10 +1,16 @@
 _repo: Colter-s-Hell-and-Jackson-s-Hole-The-Fur-Trappers-Exploration-of-the-Yellowstone-and-Grand-Te__50381
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50381-h/images/cover.jpg
 creator:
   author:
     agent_name: Mattes, Merrill J.
     gutenberg_agent_id: '45869'
     url: http://www.gutenberg.org/2009/agents/45869
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50381#Colter-s-Hell-and-Jackson-s-Hole-The-Fur-Trappers-Exploration-of-the-Yellowstone-and-Grand-Te_
 gutenberg_issued: '2015-11-04'
 gutenberg_type: Text
 identifiers:
