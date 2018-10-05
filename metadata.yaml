@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Colter''s Hell and Jackson''s Hole
 
   The Fur Trappers'' Exploration of the Yellowstone and Grand
